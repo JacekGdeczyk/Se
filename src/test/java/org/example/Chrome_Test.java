@@ -16,6 +16,7 @@ public class Chrome_Test {
         driver.navigate().forward();
         System.out.println(driver.getTitle());
         driver.navigate().refresh();
+        driver.close();
 
     }
 

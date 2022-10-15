@@ -4,38 +4,124 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="933c6a6f-9e7c-4e82-b5c6-47f6da53ef5e" name="Changes" comment="Se g fb" />
+    <list default="true" id="933c6a6f-9e7c-4e82-b5c6-47f6da53ef5e" name="Changes" comment="Se g fb">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Maths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Advanced_Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Element_Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/FindElements_LinkName_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/FindElements_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Get_Page_Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/GoodReads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Visible_And_Invisible_Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/WebElements_Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/XPath1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/XPath2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/XPath3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Chrome_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Chrome_Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-18.0.2.1/lib/src.zip!/java.base/java/lang/IllegalMonitorStateException.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2El2Ny8E8ayDeoNNzMmQODTZLny" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp1/.jdks/openjdk-18.0.2.1/path/slf4j-api-2.0.1.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/hp1/.jdks/.openjdk-18.0.2.1.intellij",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
-}</component>
-  <component name="RunManager" selected="Application.Chrome_Test">
-    <configuration name="Chrome_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Chrome_Test" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp1\IdeaProjects\Se\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Maths">
+    <configuration name="Advanced_Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Advanced_Collections" />
+      <module name="Se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Element_Reference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Element_Reference" />
+      <module name="Se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodReads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.GoodReads" />
+      <module name="Se" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maths" />
+      <module name="Se" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebElements_Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.WebElements_Collection" />
       <module name="Se" />
       <extension name="coverage">
         <pattern>
@@ -59,7 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Chrome_Test" />
+        <item itemvalue="Application.Maths" />
+        <item itemvalue="Application.GoodReads" />
+        <item itemvalue="Application.Element_Reference" />
+        <item itemvalue="Application.Advanced_Collections" />
+        <item itemvalue="Application.WebElements_Collection" />
       </list>
     </recent_temporary>
   </component>
@@ -86,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663255193729</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Se g fb">
+      <created>1663258334015</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663258334015</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,5 +200,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se g fb" />
     <option name="LAST_COMMIT_MESSAGE" value="Se g fb" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalMonitorStateException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
